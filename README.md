@@ -51,5 +51,5 @@
 ## Используемые источники
 [База данных SQLite в Python. Создание БД, вставка в БД](https://youtu.be/K1C5JAo7cMU?si=9GjS0Fa5iRr5ob4F)
 
-[SQLITE3 Создание таблицы, добавление данных, проверка и вывод. (неактуа](https://youtu.be/mRuylFh9wfY?si=ktQD6VPNJKi7LVm8)
+[SQLITE3 Создание таблицы, добавление данных, проверка и вывод](https://youtu.be/mRuylFh9wfY?si=ktQD6VPNJKi7LVm8)
 
