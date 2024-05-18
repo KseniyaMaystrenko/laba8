@@ -1,5 +1,5 @@
 # laba8
-## Условие
+## Условие для уровня Rare
 
 ![image](https://github.com/KseniyaMaystrenko/laba8/assets/152999073/d74c27c0-5bcd-4f5a-acec-f88c03225679)
 
